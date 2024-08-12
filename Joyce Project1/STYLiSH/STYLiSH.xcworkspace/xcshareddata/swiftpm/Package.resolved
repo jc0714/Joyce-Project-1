@@ -1,0 +1,24 @@
+{
+  "originHash" : "e91e0943cd93fab53c56845b27cbbbb4a1093fc1ca40a93b442c2d7f33b49756",
+  "pins" : [
+    {
+      "identity" : "facebook-ios-sdk",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/facebook/facebook-ios-sdk",
+      "state" : {
+        "revision" : "c19607d535864533523d1f437c84035e5fb101cf",
+        "version" : "14.1.0"
+      }
+    },
+    {
+      "identity" : "tappay-ios-sdk",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/TapPay/tappay-ios-sdk.git",
+      "state" : {
+        "revision" : "faf2eedd25b6e6fbc879a8a6e5c8536741eb015f",
+        "version" : "2.18.0"
+      }
+    }
+  ],
+  "version" : 3
+}
